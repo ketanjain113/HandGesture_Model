@@ -74,7 +74,7 @@ Found a bug? 🐞 Want to suggest a new feature? 🌟 Open an **issue** or submi
 
 ## 📜 License
 
-This project is open-source under the **MIT License**.
+This project is open-source.
 
 ---
 
