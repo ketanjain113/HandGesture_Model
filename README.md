@@ -15,7 +15,7 @@ Take control of your computer using **hand gestures**! This project utilizes **M
 
 ## 🎥 Demo
 
-[![Demo Video](https://img.youtube.com/vi/3QvQbrVIyuo/0.jpg)](https://youtu.be/3QvQbrVIyuo)
+![Demo GIF](Demo.gif)
 
 ---
 
