@@ -75,6 +75,9 @@ Found a bug? 🐞 Want to suggest a new feature? 🌟 Open an **issue** or submi
 ## 📜 License
 
 This project is open-source.
+Attribution
+
+This project is inspired by and built upon Kazuhito00/hand-gesture-recognition-using-mediapipe, which is licensed under Apache 2.0
 
 ---
 
